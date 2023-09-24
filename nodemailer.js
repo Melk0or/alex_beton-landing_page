@@ -7,7 +7,7 @@
 //         secure: true, //true only for 465 port
 //         auth: {
 //             user: 'mailer2024@mail.ru',
-//             pass: 'SaFpypHupfSNZaT0cvzv'
+//             pass: '****'
 //         }
 //     },
 //     {
